@@ -1,0 +1,14 @@
+{
+  "name": "pixabay-api-codex-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A safe Pixabay API search skill for Codex.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check scripts/search-pixabay.mjs"
+  }
+}

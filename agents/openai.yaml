@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixabay API"
+  short_description: "Search Pixabay images and videos safely"
+  default_prompt: "Use $pixabay-api to search Pixabay for suitable images or videos and return attribution-ready results."
