@@ -1,5 +1,7 @@
 # Pixabay API Codex Skill
 
+English | [简体中文](README.zh-CN.md)
+
 A Codex skill and dependency-free Node.js CLI for searching the Pixabay image and video API safely.
 
 ## Features
